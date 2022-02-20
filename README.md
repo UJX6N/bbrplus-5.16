@@ -11,7 +11,7 @@ https://github.com/cx9208/bbrplus
 <br/>
 <br/> 
 
-## some improvements as Nov-2021
+## some improvements as Feb-2022
 
 ###  i)   merged official v4.14 tcp_bbr patches between 2018-2021 into bbrplus  
 ###  ii)  keep official v5.16 tcp_bbr module in the kernel, now can do either  
